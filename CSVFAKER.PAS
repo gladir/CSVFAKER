@@ -1,6 +1,6 @@
 { @author: Sylvain Maltais (support@gladir.com)
   @created: 2024
-  @website(https://www.gladir.com/corail)
+  @website(https://www.gladir.com/csvfaker)
   @abstract(Target: Turbo Pascal 7, Free Pascal 3.2)
 }
 
